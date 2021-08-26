@@ -1,24 +1,24 @@
 Package: gazserver
-Version: 0.0.7
+Version: 0.0.8
 Architecture: amd64
 Maintainer: awear@appsyouwear.com
-Filename: ./gazserver_0.0.7_amd64.deb
-Size: 21640724
-MD5sum: 515c116c42101378a76bdccb58310bfd
-SHA1: cd37827a4eb1f0d11208dffe8c88b408a355a627
-SHA256: b2281df3b3691f9e474fcbc98c205006000314ab398eeefceed8c86e1b2c8755
+Filename: ./gazserver_0.0.8_amd64.deb
+Size: 40104532
+MD5sum: ddc69e99805c1ea4f5dbae0afb408fee
+SHA1: e51a1fb554afbf064b51ea08765bc4da0f698b08
+SHA256: fe52f814f69754f5332086d0ab86a5add593f5f4fbfef0dd0f5af6bce0206305
 Homepage: https://appsyouwear.com
 Description: A program that prints hello
 
 Package: gazserver
-Version: 0.0.7
+Version: 0.0.8
 Architecture: arm64
 Maintainer: awear@appsyouwear.com
-Filename: ./gazserver_0.0.7_arm64.deb
-Size: 12207096
-MD5sum: b0a83b800015523dba8b390c4279304a
-SHA1: d51f4165762a32b03ed88276cd6491f73b1f257a
-SHA256: 005e3e7157f3e84ad9162e16c79d1f4fcbc7d01329e85479814dc697779be933
+Filename: ./gazserver_0.0.8_arm64.deb
+Size: 73237472
+MD5sum: f1b20d7b7be7fe7e337c19711917c3bd
+SHA1: 24c54bb51f986b8e1b2ccf2532e24159f7c2425b
+SHA256: ee32edcfcea92007b52e70a106dd9573e352d4a8a321202d7d78c9779d783e76
 Homepage: https://appsyouwear.com
 Description: A program that prints hello
 
